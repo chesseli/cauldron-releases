@@ -5,7 +5,7 @@ structural-biology workbench by Chesseli.
 
 ## Download
 
-Get the latest installer from the [**Releases**](https://github.com/flurinh/cauldron-releases/releases/latest) page:
+Get the latest installer from the [**Releases**](https://github.com/chesseli/cauldron-releases/releases/latest) page:
 
 | OS | File | Install |
 |----|------|---------|
